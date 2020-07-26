@@ -1,9 +1,5 @@
-In Progress
-Reference:http://varianceexplained.org/theme-setup/
-Reference: https://zenglix.github.io/personal_website/
+This is a repo for my personal site.
 
+It is currently under development.
 
-Tasks to do:
-1.Organize
-2.Make more blogs according to interests
-3.Change the URL/Name of Statistics blog
+Please keep an eye out for the readme updates to learn more.
