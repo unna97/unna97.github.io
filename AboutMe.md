@@ -1,4 +1,7 @@
-
+---
+layout: single
+title: About
+---
 Programming Journey:
 
 I am currently at Recurse Center (hopefully) becoming a better programmer by doing various projects
