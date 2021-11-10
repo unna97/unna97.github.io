@@ -4,5 +4,7 @@ It is currently under development.
 
 Please keep an eye out for the readme updates to learn more.
 
-Minimal Mistakes theme currently
+- Minimal Mistakes theme currently
+
+
 
